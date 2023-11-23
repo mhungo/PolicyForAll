@@ -1,7 +1,9 @@
 TingTing:
 
-- Ứng dụng không thu thập bất kì thông tin cá nhân nào của người dùng ngoại trừ xử dụng camera để quét thông tin mã QR, thông tin vị trí để xem thời tiết, và truy cập bộ nhớ để lưu video.
-- Ứng yêu cầu người dùng cung cấp quyền truy cập camera, vị trí, truy cập bộ nhớ
+Ứng dụng cung cấp các công cụ tiện ích như: thời tiết, ghi chú, tải video từ tiktok, quét nhận diện mã QR.
+
+- Ứng dụng không thu thập bất kì thông tin cá nhân nào của người dùng(Tên, số điện thoại, email)
+- Ứng yêu cầu người dùng cung cấp quyền truy cập camera, vị trí, lưu vào bộ nhớ.
 - Ứng dụng hoàn toàn miễn phí trên Google Playstore.
 
 Contact:
